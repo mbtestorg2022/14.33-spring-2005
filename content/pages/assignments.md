@@ -28,18 +28,160 @@ The Effects of Affirmative Action on Diversity and Student Quality ([PDF]({{< ba
 Assignments by Weekly Session
 -----------------------------
 
-| WEEK # | TOPICS/ASSIGNMENTS |
-| --- | --- |
-| 1 | Introduction to Course  {{< br >}}  {{< br >}}Lecture on Causation and Randomized Experiments |
-| 2 | STATA Review |
-| 3 | Discussion of the Elements of a Good Economics Paper  {{< br >}}  {{< br >}}Handout of "Guidelines for Writing an Empirical Paper."  {{< br >}}  {{< br >}}The class will be divided into research teams that will meet separately for the remainder of the semester. |
-| 4 | Half of the members of each research team will present their initial ideas for a paper. A maximum of 10 minutes will be allotted to each presentation and this will include discussion of the research idea by other members of the research team. |
-| 5 | Half of the members of each research team will present their initial ideas for a paper. A maximum of 10 minutes will be allotted to each presentation and this will include discussion of the research idea by other members of the research team. (cont.) |
-| 6 | Research plan is due this week at 5 pm for half the members of each team. The research plan will be distributed electronically to the instructors and the members of your research team. All team members are expected to read the plan before class and be prepared to comment on it.  {{< br >}}  {{< br >}}These team members will present their research plan to their teammates in class. The presentations will last 10 minutes and an additional 5 minutes will be allotted for discussion. |
-| 7 | Research plan is due this week at 5 pm for half the members of each team. The research plan will be distributed electronically to the instructors and the members of your research team. All team members are expected to read the plan before class and be prepared to comment on it.  {{< br >}}  {{< br >}}These team members will present their research plan to their teammates in class. The presentations will last 10 minutes and an additional 5 minutes will be allotted for discussion. (cont.) |
-| 8 | Open forum for discussing questions and/or difficulties that you face on your project. |
-| 9 | Open forum for discussing questions and/or difficulties that you face on your project. (cont.) |
-| 10 | First draft of the paper is due this week at 5 pm for half the members of each team. This draft will be distributed electronically to the instructors and the members of your research team.  {{< br >}}  {{< br >}}The draft should begin to resemble your full paper. In particular, it should include each of the sections that your final paper will have. For the sections that are not yet complete, you should include an outline of what is coming. It should also include preliminary versions of your tables and figures. Many of you will not have completed the analysis yet and, if you are in this situation, you should include blank tables/figures and/or outlines of what they will look like.   {{< br >}}  {{< br >}}It is essential that you read your classmates' papers once they are posted and be prepared to comment on them in class. Your grade depends on your contribution to your classmates' research projects.  {{< br >}}  {{< br >}}If you turn in a draft for this week, then you will also be expected to make your final presentation. You should plan on presenting your entire project in roughly 12 minutes. There will then be a brief discussion where your fellow students, the instructor, and TA will provide feedback on how to improve your paper. This will be the last opportunity to get feedback in the classroom. |
-| 11 | First draft of the paper is due this week at 5 pm for half the members of each team. This draft will be distributed electronically to the instructors and the members of your research team.  {{< br >}}  {{< br >}}The draft should begin to resemble your full paper. In particular, it should include each of the sections that your final paper will have. For the sections that are not yet complete, you should include an outline of what is coming. It should also include preliminary versions of your tables and figures. Many of you will not have completed the analysis yet and, if you are in this situation, you should include blank tables/figures and/or outlines of what they will look like.  {{< br >}}  {{< br >}}It is essential that you read your classmates' papers once they are posted and be prepared to comment on them in class. Your grade depends on your contribution to your classmates' research projects.  {{< br >}}  {{< br >}}If you turn in a draft for this week, then you will also be expected to make your final presentation. You should plan on presenting your entire project in roughly 12 minutes. There will then be a brief discussion where your fellow students, the instructor, and TA will provide feedback on how to improve your paper. This will be the last opportunity to get feedback in the classroom. (cont.) |
-| 12 | Rewrite paper based on class discussion of presentation. Class will not meet but the instructor and TA will hold extra office hours during the regular class time. |
-| 13 | Final Paper
+{{< tableopen >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS/ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Course  
+  
+Lecture on Causation and Randomized Experiments
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+STATA Review
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of the Elements of a Good Economics Paper  
+  
+Handout of "Guidelines for Writing an Empirical Paper."  
+  
+The class will be divided into research teams that will meet separately for the remainder of the semester.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Half of the members of each research team will present their initial ideas for a paper. A maximum of 10 minutes will be allotted to each presentation and this will include discussion of the research idea by other members of the research team.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Half of the members of each research team will present their initial ideas for a paper. A maximum of 10 minutes will be allotted to each presentation and this will include discussion of the research idea by other members of the research team. (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Research plan is due this week at 5 pm for half the members of each team. The research plan will be distributed electronically to the instructors and the members of your research team. All team members are expected to read the plan before class and be prepared to comment on it.  
+  
+These team members will present their research plan to their teammates in class. The presentations will last 10 minutes and an additional 5 minutes will be allotted for discussion.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Research plan is due this week at 5 pm for half the members of each team. The research plan will be distributed electronically to the instructors and the members of your research team. All team members are expected to read the plan before class and be prepared to comment on it.  
+  
+These team members will present their research plan to their teammates in class. The presentations will last 10 minutes and an additional 5 minutes will be allotted for discussion. (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Open forum for discussing questions and/or difficulties that you face on your project.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Open forum for discussing questions and/or difficulties that you face on your project. (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+First draft of the paper is due this week at 5 pm for half the members of each team. This draft will be distributed electronically to the instructors and the members of your research team.  
+  
+The draft should begin to resemble your full paper. In particular, it should include each of the sections that your final paper will have. For the sections that are not yet complete, you should include an outline of what is coming. It should also include preliminary versions of your tables and figures. Many of you will not have completed the analysis yet and, if you are in this situation, you should include blank tables/figures and/or outlines of what they will look like.   
+  
+It is essential that you read your classmates' papers once they are posted and be prepared to comment on them in class. Your grade depends on your contribution to your classmates' research projects.  
+  
+If you turn in a draft for this week, then you will also be expected to make your final presentation. You should plan on presenting your entire project in roughly 12 minutes. There will then be a brief discussion where your fellow students, the instructor, and TA will provide feedback on how to improve your paper. This will be the last opportunity to get feedback in the classroom.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+First draft of the paper is due this week at 5 pm for half the members of each team. This draft will be distributed electronically to the instructors and the members of your research team.  
+  
+The draft should begin to resemble your full paper. In particular, it should include each of the sections that your final paper will have. For the sections that are not yet complete, you should include an outline of what is coming. It should also include preliminary versions of your tables and figures. Many of you will not have completed the analysis yet and, if you are in this situation, you should include blank tables/figures and/or outlines of what they will look like.  
+  
+It is essential that you read your classmates' papers once they are posted and be prepared to comment on them in class. Your grade depends on your contribution to your classmates' research projects.  
+  
+If you turn in a draft for this week, then you will also be expected to make your final presentation. You should plan on presenting your entire project in roughly 12 minutes. There will then be a brief discussion where your fellow students, the instructor, and TA will provide feedback on how to improve your paper. This will be the last opportunity to get feedback in the classroom. (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Rewrite paper based on class discussion of presentation. Class will not meet but the instructor and TA will hold extra office hours during the regular class time.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Final Paper
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -24,15 +24,84 @@ Requirements
 
 Grades are based on full participation in all aspects of the course. The specific breakdown is:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation in Discussion of Classmates' Research | 20% |
-| One Problem Set | 10% |
-| Presentation of Preliminary Ideas | 5% |
-| Research Plan (2 Pages) | 10% |
-| First Draft of Paper | 10% |
-| Final Presentation | 15% |
-| Final Paper | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation in Discussion of Classmates' Research
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One Problem Set
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation of Preliminary Ideas
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research Plan (2 Pages)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First Draft of Paper
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 The main project will be a paper that should be 10-15 pages of text (12 point Times New Roman with 1 inch margins), plus tables and figures. The paper will report on original economic research that you perform over the course of the semester. There will be a number of opportunities to make presentations on your research throughout the course of the semester.
